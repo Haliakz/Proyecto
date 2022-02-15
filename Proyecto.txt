@@ -1,0 +1,13 @@
+El problema es que la empresa esta perdiendo dinero y necesitan agilizar esos procesos para ganar mas dinero.
+
+El valor de la cotizacion se esta cambiando dependiendo de que tan cerca este la persona de morir y que tanto tendria que gastar la empresa para darle dinero al conyugue y a los hijos, necesitan tener ganancias y por eso se necesita pedirle mas dinero al asegurado mientras mas viejo y mas hijos y mas viejo el conyugue. 
+
+
+
+El algoritmo seria: 
+1. edad del cotizado
+2. edad del conyugue
+3. cantidad de hijos
+
+Decisiones que se pueden tomar son, que tanto mas dinero se le puede cobrar al asegurado. 
+
